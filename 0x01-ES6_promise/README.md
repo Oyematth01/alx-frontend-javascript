@@ -1,9 +1,10 @@
-##This directory contains solution to the 0x01-ES6_promise tasks
+## This directory contains solutions to the 0x01-ES6_promise tasks
 
-###Learning Objectives
-1. Promises (how, why, and what)
-2. How to use the then, resolve, catch methods
-3. How to use every method of the Promise object
-4. Throw / Try
-5. The await operator
-6. How to use an async function
+### Learning Objectives
+
+- **Promises**: How, why, and what.
+- How to use the `then`, `resolve`, `catch` methods.
+- How to use every method of the `Promise` object.
+- `Throw` / `Try`.
+- The `await` operator.
+- How to use an `async` function.
